@@ -1,0 +1,34 @@
+{
+    "name": "PlayerInput",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "f1b836ef-a4c9-48fa-8c5b-77e9d2b88834",
+            "actions": [
+                {
+                    "name": "TakeWater",
+                    "type": "Button",
+                    "id": "57646ece-3eef-4413-ab11-aa6ed9094f03",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "fe8e8639-cbc0-4072-b447-9a03a73411c6",
+                    "path": "<Keyboard>/z",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "TakeWater",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
